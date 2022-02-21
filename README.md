@@ -1,17 +1,16 @@
 # ZVUK I.
 
+Predmet bude prebiehať v miestnosti #270 na Drotárskej ceste, v čase 9oo - 12oo.
 
 Cieľom predmetu je oboznámiť študentov so týmito oblasťami:
 
-* základy nahrávania a editácie zvuku, zvukový hardware (mikrofóny, rekordéry, mix, kabeláž, zvuková karta, konektory)
-* základy práce so zvukom v digitálnom médiu, základný open-source software
-* základy programovania v Supercollideri
-* základy livecodingu v Estuary
-* netradičné zvukové zdroje (glitch, circuitbending, piezo)
-* editovanie zvuku v termináli, automatizácia pracných úkonov = používanie myšky je v dnešnej dobe neslušné
-* rôzne spôsoby zapisovania zvuku, interface digitálneho nástroja
+* Základy nahrávania a editácie zvuku, zvukový hardware (mikrofóny, rekordéry, mix, kabeláž, zvuková karta, konektory), audio open-source software
+* Úvod do programovania v Supercollideri (potrebné pre ZVUK II)
+* Livecoding v Estuary
+* Netradičné zvukové zdroje (glitch, circuitbending, piezo)
+* Editovanie zvuku v termináli, automatizácia pracných úkonov = používanie myšky je v dnešnej dobe neslušné
+* Spôsoby zapisovania zvuku, interface digitálneho nástroja, zvukové a hudobné ukážky, kontexty
 
-Predmet bude prebieha5 v miestnosti #270 na Drot8rskej ceste, v čase 9oo - 12oo.
 > Na hodiny je potrebné nosit laptop so slúchadlami a nainštalovaný software:
 	[Supercollider](https://supercollider.github.io/)
 	[Audacity](https://www.audacityteam.org/)
@@ -25,7 +24,7 @@ Predmet bude prebieha5 v miestnosti #270 na Drot8rskej ceste, v čase 9oo - 12oo
 * **11.apr** editácia zvuku v termináli - ```sox```, livecoding cvičenie
 * **02.maj** Prezentácia projektov
 
-Spolu 28 vyučovacích hodín.
+Spolu 24 vyučovacích hodín.
 Konzultácie a spoločná platforma pre komunikáciu prebieha na discord serveri. Pozvánky by ste mali dostať.
 Konzultacie a spolocna platforma pre komunikaciu prebieha na discord serveri. Pozvanky by ste mali dostat.
 ### Podmienkou ukončenia predmetu je:
