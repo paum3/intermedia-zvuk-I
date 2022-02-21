@@ -37,12 +37,13 @@ Ludske ucho/mozog je schopne zachytit frekvencie z rozsahu ```<20,20000>``` Hz.
 Vsetko nad tymto rozsahom nazybame *ultrazvuk*, pod *infrazvuk*.
 Cim sme starsi, alebo casto vystaveni hlucnemu prostrediu, tym sa tento rozsah znizuje.
 
-|         |             |
-| Človek  | 20Hz-20kHz  |
-| Šimpanz | 100Hz-20kHz |
-| Mačka   | 30Hz-50kHz  |
-| Zajac   | 300Hz-45kHz |
-| Myš     | 1kHz-100kHz |
+|          |             |
+| -------- | ----------- |
+| Človek   | 20Hz-20kHz  |
+| Šimpanz  | 100Hz-20kHz |
+| Mačka    | 30Hz-50kHz  |
+| Zajac    | 300Hz-45kHz |
+| Myš      | 1kHz-100kHz |
 
 ![Frekvencie](img/freq.png)
 
