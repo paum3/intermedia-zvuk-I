@@ -13,21 +13,37 @@ Nora Skuta - Sonaty a interuldia pre preparovany klavir
 ## Co je ticho?
 ## Co je zvuk ?
 
-Najjednoduchsia zvukova vlna je *sinus*. Je preto povazovana za zakladny kamen pocitacovej hudby.
+Najjednoduchsia zvukova vlna je *sinus*. Je preto povazovana za zakladny kamen pocitacovej hudby. Sinus nema v sebe ziadne dalsie frekvencie (ako je to u inych vln), preto je sa m o sebe zvukovo/hudobne nezaujimavy.
 ```supercollider
-s.boot
-s.scope
-{SinOsc.ar(1000)}.plot
+s.boot;
+s.scope;
+{SinOsc.ar(1000)}.plot;
 ```
 ![sinus](img/sin.png)
+
 ### Hlasitost / Amplituda
+
+![Amplitudy](img/amplitudy.png)
+
 ```supercollider
 Ndef(\a,{ SinOsc.ar(200) * MouseY.kr(0,1) ! 2 }).play
 Ndef(\a).stop
 ```
 
 
-// - ton, vyska - frekvencia Hz
+### Vyska / frekvencia Hz (hertz)
+Ludske ucho/mozog je schopne zachytit frekvencie z rozsahu ```<20,20000>``` Hz.
+Vsetko nad tymto rozsahom nazybame *ultrazvuk*, pod *infrazvuk*.
+Cim sme starsi, alebo casto vystaveni hlucnemu prostrediu, tym sa tento rozsah znizuje.
+
+| Človek  | 20Hz-20kHz  |
+| Šimpanz | 100Hz-20kHz |
+| Mačka   | 30Hz-50kHz  |
+| Zajac   | 300Hz-45kHz |
+| Myš     | 1kHz-100kHz |
+
+![Frekvencie](img/freq.png)
+
 ```supercollider
 Ndef(\a,{ SinOsc.ar(MouseX.kr(5,20000).poll) * 0.5 ! 2 }).play
 Ndef(\a,{ Saw.ar(MouseX.kr(5,200)) * (0.5) ! 2 }).play
@@ -40,11 +56,10 @@ Ndef(\a,{ SinOsc.ar(80) * 0.5 ! 2 }).play
 Ndef(\a).stop
 ```
 
-// farba, amplituda
+### farba
 ```supercollider
 Ndef(\a,{ Saw.ar(200) * MouseY.kr(0,1) ! 2 }).play
 Ndef(\a).stop
-
 s.scope
 ```
 
