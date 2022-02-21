@@ -1,15 +1,20 @@
-ZVUK I.
+# ZVUK I.
 
 Cielom predmetu je oboznamit studentov so tymito oblastami:
- * zaklady nahravania a editace zvuku, zvukovy hardware
+ * zaklady nahravania a editace zvuku, zvukovy hardware (mikrofony, rekordery, mix, kabelaz, zvukova karta, konektory)
  * zaklady prace so zvukom v digitalnom mediu, zakladny open-source software
  * zaklady programovania v Supercollideri
  * zaklady livecodingu v Estuary
  * netradicne zvukove zdroje (glitch, circuitbending, piezo)
- * editovanie zvuku v terminaly
+ * editovanie zvuku v terminali
  * rozne sposoby zapisovania zvuku, interface digitalneho nastroja
 
 Predmet bude prebiehat v miestnosti #270 na Drotarskej ceste, v case 9oo - 12oo.
+> Na hodiny je potrebne nosit laptop so sluchadlami a nainstalovany softwer:
+	[Supercollider](https://supercollider.github.io/)
+	[Audacity](https://www.audacityteam.org/)
+	[sox](http://sox.sourceforge.net/)
+	Vsetky nastroje ktore budeme pouzivat su open source.
 
 * 21.feb Na zaciatku bol sinus
 * 07.mar Uvod do livecodingu v Estuary, nahravanie a editacia zvuku v Audacity, digital vs analog, zaklady supercollideru
@@ -21,12 +26,12 @@ Predmet bude prebiehat v miestnosti #270 na Drotarskej ceste, v case 9oo - 12oo.
 Spolu 28 vyucovacich hodin.
 Konzultacie a spolocna platforma pre komunikaciu prebieha na discord serveri. Pozvanky by ste mali dostat.
 
-Podmienkou ukoncenia predmetu je:
+### Podmienkou ukoncenia predmetu je:
  * vynechat najviac 14% z vyucovacich hodin (4 vyucovacie hodiny)
  * prezentovat vlastnu zvukovu pracu v trvani minimalne 1 minuty, vychadzajucu z vlastnej grafickej partitury s 1/2 A4 textu (vychodiska, kontaxty, co a preco)
 
 
-Literatura:
+### Literatura:
 - GUŠTAR, Milan: Elektrofony I. - II., Historie, Principy, Souvislosti; UVNITŘ, Praha 2008
 - NYMAN, Michael: Experimentálna hudba – Cagea a iní; Hudobné centrum, Bratislava 2006
 - CAGE, John. Silence : přednášky a texty. Praha: Erste Stiftung, 2010. 279 s. ISBN 978-80-87259-07-8
