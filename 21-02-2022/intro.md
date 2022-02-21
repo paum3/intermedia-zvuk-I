@@ -19,7 +19,7 @@ s.boot
 s.scope
 {SinOsc.ar(1000)}.plot
 ```
-[](img/sin.png)
+[image](img/sin.png)
 ### Hlasitost / Amplituda
 ```supercollider
 Ndef(\a,{ SinOsc.ar(200) * MouseY.kr(0,1) ! 2 }).play
