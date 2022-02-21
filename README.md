@@ -18,12 +18,12 @@ Predmet bude prebieha5 v miestnosti #270 na Drot8rskej ceste, v čase 9oo - 12oo
 	[sox](http://sox.sourceforge.net/)
 	Všetky nástroje ktoré budeme používat sú open source = voľne dostupné = vytvorené z láskou bez komerčného záujmu = slobodné.
 
-* 21.feb Na začiatku bol sínus
-* 07.mar Úvod do livecodingu v Estuary, nahrávanie a editácia zvuku v Audacity, digital vs analog, základy supercollideru
-* 14.mar Zápis zvuku, grafická partitúra, livecoding cvičenie
-* 04.apr glitch, circuitbending, livecoding cvičenie
-* 11.apr editácia zvuku v termináli - ```sox```, livecoding cvičenie
-* 02.maj Prezentácia projektov
+* **21.feb** Na začiatku bol sínus
+* **07.mar** Úvod do livecodingu v Estuary, nahrávanie a editácia zvuku v Audacity, digital vs analog, základy supercollideru
+* **14.mar** Zápis zvuku, grafická partitúra, livecoding cvičenie
+* **04.apr** glitch, circuitbending, livecoding cvičenie
+* **11.apr** editácia zvuku v termináli - ```sox```, livecoding cvičenie
+* **02.maj** Prezentácia projektov
 
 Spolu 28 vyučovacích hodín.
 Konzultácie a spoločná platforma pre komunikáciu prebieha na discord serveri. Pozvánky by ste mali dostať.
