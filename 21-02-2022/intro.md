@@ -12,8 +12,8 @@ Nora Skuta - Sonaty a interuldia pre preparovany klavir
 
 ## Co je ticho?
 ## Co je zvuk ?
+Najjednoduchšia zvuková vlna je *sínus*. Je preto považovaná za základný kameň počítačovej hudby. Sínus nemá v sebe žiadne ďalšie frekvencie (ako je to u iných vĺn), preto je sám o sebe zvukovo/hudobne nezaujímavý.
 
-Najjednoduchsia zvukova vlna je *sinus*. Je preto povazovana za zakladny kamen pocitacovej hudby. Sinus nema v sebe ziadne dalsie frekvencie (ako je to u inych vln), preto je sa m o sebe zvukovo/hudobne nezaujimavy.
 ```supercollider
 s.boot;
 s.scope;
@@ -32,10 +32,7 @@ Ndef(\a).stop
 
 
 ### Vyska / frekvencia Hz (hertz)
-
-Ludske ucho/mozog je schopne zachytit frekvencie z rozsahu ```<20,20000>``` Hz.
-Vsetko nad tymto rozsahom nazybame *ultrazvuk*, pod *infrazvuk*.
-Cim sme starsi, alebo casto vystaveni hlucnemu prostrediu, tym sa tento rozsah znizuje.
+Ľudské ucho/mozog je schopné zachytiť frekvencie z rozsahu ```<20,20000>``` Hz. Všetko nad týmto rozsahom nazývame ultrazvuk, pod infrazvuk. Čím sme starší, alebo často vystavení hlučnému prostrediu, tým sa tento rozsah znižuje.
 
 |          |             |
 | -------- | ----------- |

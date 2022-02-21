@@ -1,37 +1,38 @@
 # ZVUK I.
 
-Cielom predmetu je oboznamit studentov so tymito oblastami:
- * zaklady nahravania a editace zvuku, zvukovy hardware (mikrofony, rekordery, mix, kabelaz, zvukova karta, konektory)
- * zaklady prace so zvukom v digitalnom mediu, zakladny open-source software
- * zaklady programovania v Supercollideri
- * zaklady livecodingu v Estuary
- * netradicne zvukove zdroje (glitch, circuitbending, piezo)
- * editovanie zvuku v terminali
- * rozne sposoby zapisovania zvuku, interface digitalneho nastroja
 
-Predmet bude prebiehat v miestnosti #270 na Drotarskej ceste, v case 9oo - 12oo.
-> Na hodiny je potrebne nosit laptop so sluchadlami a nainstalovany softwer:
+Cieľom predmetu je oboznámiť študentov so týmito oblasťami:
+
+* základy nahrávania a editácie zvuku, zvukový hardware (mikrofóny, rekordéry, mix, kabeláž, zvuková karta, konektory)
+* základy práce so zvukom v digitálnom médiu, základný open-source software
+* základy programovania v Supercollideri
+* základy livecodingu v Estuary
+* netradičné zvukové zdroje (glitch, circuitbending, piezo)
+* editovanie zvuku v termináli, automatizácia pracných úkonov = používanie myšky je v dnešnej dobe neslušné
+* rôzne spôsoby zapisovania zvuku, interface digitálneho nástroja
+
+Predmet bude prebieha5 v miestnosti #270 na Drot8rskej ceste, v čase 9oo - 12oo.
+> Na hodiny je potrebné nosit laptop so slúchadlami a nainštalovaný software:
 	[Supercollider](https://supercollider.github.io/)
 	[Audacity](https://www.audacityteam.org/)
 	[sox](http://sox.sourceforge.net/)
-	Vsetky nastroje ktore budeme pouzivat su open source.
+	Všetky nástroje ktoré budeme používat sú open source = voľne dostupné = vytvorené z láskou bez komerčného záujmu = slobodné.
 
-* 21.feb Na zaciatku bol sinus
-* 07.mar Uvod do livecodingu v Estuary, nahravanie a editacia zvuku v Audacity, digital vs analog, zaklady supercollideru
-* 14.mar Zapis zvuku, graficka partitura, livecoding prax
-* 04.apr glitch, circuitbending, livecoding prax
-* 11.apr editacia zvuku v terminaly - sox, livecoding prax
-* 02.maj Prezentacia projektov
+* 21.feb Na začiatku bol sínus
+* 07.mar Úvod do livecodingu v Estuary, nahrávanie a editácia zvuku v Audacity, digital vs analog, základy supercollideru
+* 14.mar Zápis zvuku, grafická partitúra, livecoding cvičenie
+* 04.apr glitch, circuitbending, livecoding cvičenie
+* 11.apr editácia zvuku v termináli - ```sox```, livecoding cvičenie
+* 02.maj Prezentácia projektov
 
-Spolu 28 vyucovacich hodin.
+Spolu 28 vyučovacích hodín.
+Konzultácie a spoločná platforma pre komunikáciu prebieha na discord serveri. Pozvánky by ste mali dostať.
 Konzultacie a spolocna platforma pre komunikaciu prebieha na discord serveri. Pozvanky by ste mali dostat.
+### Podmienkou ukončenia predmetu je:
+ * vynechať najviac 20% z vyučovacich hodín
+ * prezentovať vlastnú zvukovú prácu v trvaní minimálne 1 minúty, vychádzajúcu z vlastnej grafickej partitúry s 1/2 A4 textu (východiská, kontaxty, čo a prečo)
 
-### Podmienkou ukoncenia predmetu je:
- * vynechat najviac 14% z vyucovacich hodin (4 vyucovacie hodiny)
- * prezentovat vlastnu zvukovu pracu v trvani minimalne 1 minuty, vychadzajucu z vlastnej grafickej partitury s 1/2 A4 textu (vychodiska, kontaxty, co a preco)
-
-
-### Literatura:
+### Literatúra:
 - GUŠTAR, Milan: Elektrofony I. - II., Historie, Principy, Souvislosti; UVNITŘ, Praha 2008
 - NYMAN, Michael: Experimentálna hudba – Cagea a iní; Hudobné centrum, Bratislava 2006
 - CAGE, John. Silence : přednášky a texty. Praha: Erste Stiftung, 2010. 279 s. ISBN 978-80-87259-07-8
