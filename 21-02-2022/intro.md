@@ -10,26 +10,27 @@ Noam Chomsky.
 4'33 - pocuvanie, analyza, partitura,
 Nora Skuta - Sonaty a interuldia pre preparovany klavir
 
-### Co je ticho?
-### Co je zvuk ?
+## Co je ticho?
+## Co je zvuk ?
 
-
+Najjednoduchsia zvukova vlna je *sinus*. Je preto povazovana za zakladny kamen pocitacovej hudby.
 ```supercollider
 s.boot
 s.scope
 {SinOsc.ar(1000)}.plot
 ```
+[](img/sin.png)
+### Hlasitost / Amplituda
+```supercollider
+Ndef(\a,{ SinOsc.ar(200) * MouseY.kr(0,1) ! 2 }).play
+Ndef(\a).stop
+```
+
 
 // - ton, vyska - frekvencia Hz
 ```supercollider
 Ndef(\a,{ SinOsc.ar(MouseX.kr(5,20000).poll) * 0.5 ! 2 }).play
 Ndef(\a,{ Saw.ar(MouseX.kr(5,200)) * (0.5) ! 2 }).play
-Ndef(\a).stop
-```
-
-// hlasitost, amplituda
-```supercollider
-Ndef(\a,{ SinOsc.ar(200) * MouseY.kr(0,1) ! 2 }).play
 Ndef(\a).stop
 ```
 
