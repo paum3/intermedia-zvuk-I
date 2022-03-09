@@ -32,6 +32,7 @@ Konzultacie a spolocna platforma pre komunikaciu prebieha na discord serveri. Po
  * prezentovať vlastnú zvukovú prácu v trvaní minimálne 1 minúty, vychádzajúcu z vlastnej grafickej partitúry s 1/2 A4 textu (východiská, kontaxty, čo a prečo)
 
 ### Literatúra:
+- COX, Christoph – Warner, Daniel: Audiokultúra – texty o modernej hudbe, Hudobné centrum, Bratislava 2013
 - GUŠTAR, Milan: Elektrofony I. - II., Historie, Principy, Souvislosti; UVNITŘ, Praha 2008
 - NYMAN, Michael: Experimentálna hudba – Cagea a iní; Hudobné centrum, Bratislava 2006
 - CAGE, John. Silence : přednášky a texty. Praha: Erste Stiftung, 2010. 279 s. ISBN 978-80-87259-07-8
@@ -40,7 +41,6 @@ Konzultacie a spolocna platforma pre komunikaciu prebieha na discord serveri. Po
 - EMMERSON, Simon: Living electronic music; Ashgate, 2007 England
 - SCHAFER, R Murray (Raymond Murray). The soundscape: our sonic environment and the tuning of the world. Vermont Rochester: Destiny Books, 1994. 301 s. il. ISBN 0-89281-455-1
 - MANNING, Peter: Electronic and Computer Music; Oxford, 2004 New York
-- COX, Christian – Warner, Daniel: Audiokultúra – texty o modernej hudbe, Hudobné centrum, Bratislava 2013
 - ROADS, Curtis. Composing electronic music: a new aesthetic. Oxford: Oxford University Press, 2015. xxvii. 480 s. ISBN 978-0-19-537324-0.
 - HOLMES, Thom. Electronic and Experimental Music: Technology, Music, and Culture. London: Routledge, 4th ed., 2012. 568 s. ISBN 978-0415896368.
 - PUCKETTE, Miller. The theory and technique of electronic music. New Jersey: World Scientific Publishing Company, 2007. 348 s. ISBN 978-9812700773.
