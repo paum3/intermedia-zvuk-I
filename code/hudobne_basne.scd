@@ -20,7 +20,6 @@ s.boot;
 // obsahuje cestu k foldru so samplami
 ~sampleFolder
 
-PathName.new(~sampleFolder++"ek").entries
 
 // nacita sample
 (
