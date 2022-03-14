@@ -20,11 +20,13 @@ s.boot;
 // obsahuje cestu k foldru so samplami
 ~sampleFolder
 
+PathName.new(~sampleFolder++"ek").entries
 
 // nacita sample
 (
 	~sample = List.new; // vytvori prazdny zoznam (List)
-	PathName.new(~path++"/ek").entries.do({ |v|
+	PathName.new(~sampleFolder++Platform.pathSeparator++"ek").entries.do({ |v|
+		v.postln;
 		// kazdy subor v adresari
 		// nacitaj ho ako audio (Buffer) a pridaj do zoznamu (List)
 		~sample.add(
